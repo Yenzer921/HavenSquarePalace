@@ -3,6 +3,8 @@
 A responsive, multi-page website for a fictional boutique hotel near Times Square, New York.
 Built as a group project (Group 28) at Sunway University.
 
+**Live demo:** https://yenzer921.github.io/HavenSquarePalace/
+
 **Tech:** HTML · CSS · JavaScript (no frameworks, no backend)
 
 ## Features
@@ -17,7 +19,7 @@ Built as a group project (Group 28) at Sunway University.
 
 ## Run it
 
-No install needed. Open `index.html` in any browser.
+Visit the live demo, or open `index.html` in any browser. No install needed.
 
 ## Project structure
 
