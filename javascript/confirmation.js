@@ -39,7 +39,6 @@ document.addEventListener("DOMContentLoaded", () => {
     // Calculate total price
     if (checkin !== "-" && checkout !== "-") {
       const nights = calculateNights(checkin, checkout);
-      const pricePerNight = 200;
       const totalPrice = nights * pricePerNight;
       document.getElementById("display-total-price").textContent = "RM " + totalPrice.toFixed(2);
     } else {
